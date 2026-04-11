@@ -104,3 +104,47 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   text-wrap: balance;
 }
+
+section {
+  margin-bottom: 2rem;
+}
+
+article {
+  margin-bottom: 1.5rem;
+}
+
+article header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5em;
+}
+
+article h3 {
+  margin: 0;
+}
+
+article header p {
+  margin: 0;
+  color: #555;
+}
+
+time {
+  color: #777;
+  font-size: 0.9em;
+}
+
+ul {
+  margin-top: 0.5em;
+  padding-left: 1.2em;
+}
+
+li {
+  margin-bottom: 0.4em;
+}
+
+article {
+  border-left: 3px solid var(--color-accent);
+  padding-left: 1em;
+}

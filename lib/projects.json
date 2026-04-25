@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Renewable Energy Data Analysis & Predictive Modeling",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Built regression models and visualizations to evaluate the relationship between declining solar costs and increased energy generation. Identified long-term trends in U.S. energy transition using statistical analysis and integrated 20+ years of data."
+  },
+  {
+    "title": "Housing Market Trend Analysis (Gentrification Study)",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Analyzed 10+ years of housing price data across multiple counties to identify gentrification trends. Discovered correlations between income levels and home values using Python visualizations and heatmaps."
+  },
+  {
+    "title": "Behavioral Data Analysis: Music & Academic Stress",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Analyzed student survey data to explore relationships between academic workload and music preferences. Built regression models and visualized trends using Python and Spotify API data."
+  },
+
+  {
+    "title": "Personal Portfolio Website",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Designed and developed a responsive personal portfolio website using HTML, CSS, and JavaScript with dynamic content rendering and dark mode support."
+  },
+  {
+    "title": "JavaScript Data Visualization Dashboard",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Created an interactive dashboard to visualize datasets using JavaScript and dynamic DOM manipulation techniques."
+  },
+  {
+    "title": "Machine Learning Classification Project",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Implemented classification models to predict outcomes based on structured datasets and evaluated model performance using accuracy and precision metrics."
+  },
+  {
+    "title": "Exploratory Data Analysis Toolkit",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Developed reusable Python scripts for cleaning, analyzing, and visualizing datasets efficiently."
+  },
+  {
+    "title": "Time Series Analysis Project",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Analyzed time-based data to identify seasonal trends and patterns using statistical methods."
+  },
+  {
+    "title": "Data Cleaning Automation Script",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Built automation tools to clean and preprocess messy datasets, improving data quality and consistency."
+  },
+  {
+    "title": "API Data Integration Project",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Integrated external APIs into data workflows to collect and analyze real-time data."
+  },
+  {
+    "title": "Statistical Analysis Report",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Conducted statistical hypothesis testing and summarized insights in a structured report."
+  },
+  {
+    "title": "Interactive Web Form System",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Built a JavaScript-powered form with validation, dynamic behavior, and improved user interaction."
+  }
+]

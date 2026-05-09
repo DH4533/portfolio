@@ -189,6 +189,13 @@ select {
   margin: 0;
 }
 
+#projects-pie-plot {
+  max-width: 20em;
+  margin-block: 1em;
+
+  overflow: visible;
+}
+
 .container {
   display: flex;
   align-items: center;
@@ -196,35 +203,26 @@ select {
 }
 
 .legend {
-  flex: 1;
-}
-
-.legend {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(9em, 1fr));
   gap: 1em;
+  flex: 1;
   padding: 1em;
   border: 1px solid #ccc;
 }
 
-.legend-item {
+.legend li {
   display: flex;
   align-items: center;
   gap: 0.5em;
 }
 
 .swatch {
-  display: inline-block;
   width: 1em;
   aspect-ratio: 1 / 1;
-  background-color: var(--color);
-  border-radius: 4px;
-}
-
-#projects-pie-plot {
-  max-width: 20em;
-  margin-block: 2em;
-  overflow: visible;
+  background: var(--color);
+  display: inline-block;
+  border-radius: 3px;
 }
 
 path {
@@ -232,16 +230,14 @@ path {
   transition: 300ms;
 }
 
-/* Fade others on hover */
-#projects-pie-plot:has(path:hover) path:not(:hover) {
+svg:has(path:hover) path:not(:hover) {
   opacity: 0.5;
 }
 
-/* Selected state */
 .selected {
-  --color: oklch(60% 45% 0) !important;
+  --color: oklch(75.968% 0.18727 148.226) !important;
 }
 
-.selected path {
+.selected:is(path) {
   fill: var(--color);
 }

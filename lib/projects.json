@@ -25,10 +25,11 @@
     "description": "Designed and developed a responsive personal portfolio website using HTML, CSS, and JavaScript with dynamic content rendering and dark mode support."
   },
   {
-    "title": "JavaScript Data Visualization Dashboard",
+    "title": "Bikewatching",
     "year": "2026",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Created an interactive dashboard to visualize datasets using JavaScript and dynamic DOM manipulation techniques."
+    "image": "https://https://dh4533.github.io/portfolio/images/bikewatching.png",
+    "description": "An interactive visualization of Boston Bluebikes traffic using Mapbox and D3.",
+    "url": "https://https://dh4533.github.io/bikewatching/"
   },
   {
     "title": "Machine Learning Classification Project",
